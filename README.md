@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samed.</h1>
-<h3 align="center">I'm backend developer.</h3>
+<h3 align="center">I'm Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smdkthyli35&label=Profile%20views&color=0e75b6&style=flat" alt="smdkthyli35" /> </p>
 
